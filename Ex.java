@@ -1,5 +1,5 @@
 import java.io.*;
-class HelloWorld
+class Ex
 {
    public static void main(String args[])
    {
